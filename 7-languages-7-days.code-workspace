@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "ruby"
+		},
+		{
+			"path": "io"
+		},
+		{
+			"path": "prolog"
+		},
+		{
+			"path": "scala"
+		},
+		{
+			"path": "erlang"
+		},
+		{
+			"path": "clojure"
+		},
+		{
+			"path": "haskell"
+		}
+	],
+	"settings": {}
+}
